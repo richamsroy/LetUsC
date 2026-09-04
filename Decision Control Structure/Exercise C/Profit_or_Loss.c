@@ -20,4 +20,5 @@ int main()
     {
         printf("Seller has made neither profit nor incurred loss");
     }
+    return 0;
 }
